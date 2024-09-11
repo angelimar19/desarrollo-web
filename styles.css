@@ -1,0 +1,31 @@
+h1{
+    padding: 50px;
+    color:black;
+    background-color:aquamarine;
+    text-align: center;
+    
+
+}
+a{
+    color: blanchedalmond;
+    text-decoration: none;
+}
+ ul{
+    list-style-type: none;
+ }
+
+ #ig{
+    background-color: blueviolet;
+ }
+ #face{
+    background-color: blue;
+ }
+ #tik{
+    background-color: black;
+ }
+ #xs{
+    background-color:black;
+ }
+ img{
+    width: 300px;
+ }
