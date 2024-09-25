@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#logo{
+    width: 150px;
+}
+ul{
+    list-style-type: none;
+}
+/*header*/
+#header-lista{
+    display: flex;
+}
+/* header*/
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgba(0, 0, 0, 0.445);
+    align-items: center;
+}
+.header-lista-item{
+    margin-right: 7.5px ;
+}
+
+#logo-footer{
+    width: 100px;
+}
+#parrafo{
+    text-align: center;
+}
+#footer-menu{
+    display: flex;
+    justify-content: space-around;
+   
+}
+footer{
+     background-color: rgba(0, 0, 0, 0.445);
+}
+
+.trajes{
+    width: 150px;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+}
+article{
+    width: 300px;
+    text-align: center;
+    border: 2px solid gray;
+}
